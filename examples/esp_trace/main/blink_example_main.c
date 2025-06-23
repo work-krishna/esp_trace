@@ -14,7 +14,7 @@
 #include "led_strip.h"
 #include "sdkconfig.h"
 
-#include "../components/trace/trace.h"
+#include "esp_trace.h"
 
 static const char *TAG = "example";
 
