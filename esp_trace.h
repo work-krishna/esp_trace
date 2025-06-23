@@ -1,12 +1,15 @@
 /*
  * trace.h - Enhanced logging macros for ESP-IDF
+
  * Author: Krishna Kumar Sah <work.krishnasah@gmail.com>
+ * Repository: https://github.com/krishnasah/esp_trace
+ *
  *
  * This file provides a set of macros to facilitate logging with file and line
  * information in ESP-IDF applications. It allows developers to easily trace
  * the execution flow and debug issues by including the source file name and
  * line number in the log messages.
- * 
+ *
  *
  * SPDX-License-Identifier: MIT
  *
